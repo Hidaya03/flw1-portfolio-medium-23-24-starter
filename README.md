@@ -3,10 +3,10 @@
 Create a personal portfolio using **HTML** and **CSS**. For those looking for an added challenge, feel free to incorporate **JavaScript**.
 
 ## Planning
-- [ ] 1. Look at sample portfolios in the “Inspiration & Ideas” section.
-- [ ] 2. Complete the “Brainstorming” section.
-- [ ] 3. Complete the “Wireframing” section.
-- [ ] 4. Clone or Fork the Starter Code.
+- [x ] 1. Look at sample portfolios in the “Inspiration & Ideas” section.
+- [ x] 2. Complete the “Brainstorming” section.
+- [ x] 3. Complete the “Wireframing” section.
+- [ x] 4. Clone or Fork the Starter Code.
 
 ## HTML Tasks
 

@@ -16,13 +16,13 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: lightblue;
     padding: 20px;
     font-family: Arial;
   }
   
   .heading{
-    background-color: #373738;
+    background-color: lightgreen;
     color: #efeff2;
     padding: 1em;
   }
